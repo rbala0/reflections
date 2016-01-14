@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+So far I have learnt that finding a change/ bug in two files is very difficult manually as compared to a tool.
+The command diff helped find a typo in two different versions of the same file
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Entire history of a program file helps me understand how the product had progressed and also roll back to previous stable version in case of any failure/ bug in the current release
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pro of manual commit is it gives more control for user to determine which is a logical unit needing commit
+Does not have safety check if programmer forgets
+
+Automatic version control has the advantage of not depending on user
+Con is too many history detail would be provided which may not be needed
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Google was built with the intention of version controlling single document style files while git was specifically built for program version control
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log can be used to see the commit history and the changes that had happened and the reasons behind a commit
+
+git diff tells the lines that had changed from one version to another
+
+How might using version control make you more confident to make changes that could break something?
+
+Version control allows me to go back to previous stable version even if i ended up introducing a new bug in the current version
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to try using git for the java project that i need to do
+
+
