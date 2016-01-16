@@ -5,3 +5,28 @@ A new repository is created for git to start tracking commit history
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It is temporary area to decide what files from your main directory do you want to commit at this point in time
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can add files to staging area after every logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When multiple people are working on a project each person can create a branch to implement a feature without affecting the master
+
+How do the diagrams help you visualize the branch structure?
+
+It helps me understand how each branch is positioned with respect to the overall project
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merge has actually screwed up my project :(
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+After learning about merge conflict. Have solved the previous issue. My project is working :) 
+
+This is the pro of autmoatic merging
+Can't think of a con
